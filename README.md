@@ -69,5 +69,9 @@ If you encounter issues running the application:
 * Ensure all required data files have unchanged column headings
 * Check that you have sufficient permissions on your system
 
+This software accompanies a manuscript in preparation. While licensed under 
+the BSD 3-Clause License, we request that you contact the authors before 
+using this software in research projects until our publication is available.
+
 *Contact Information* <br>
 [Georgina L. Gregory, University of Oxford]
