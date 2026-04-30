@@ -1,11 +1,16 @@
 # PolyRECO Visualization Tool
 
+MATLAB-Visualization Tool for the manuscript: 
+
+**"Graph-Based Machine Learning Identifies Oxygenated Block Polymer Replacements for Conventional Plastics and Elastics,"**
+Soheila Molaei, Kam C. Poon, Chang Gao, Katharina H. S. Eisenhardt, Matilde Concilio, Gregory S. Sulley, David Kohan Marzagão*, Georgina L. Gregory*, David A. Clifton*, Clive R. Siviour*, Charlotte K. Williams*, _J. Am. Chem. Soc._ , **2026**, 148, 10, 10934–10944. DOI:[10.1021/jacs.5c21416](https://doi.org/10.1021/jacs.5c21416) Open access (CC-BY).
+
 *Overview*
 
 The PolyRECO Visualization Tool is a MATLAB application designed to help explore and visualize potential polymer combinations that meet specific mechanical thresholds. This tool converts SMILES strings into chemical names and allows users to explore different polymer combinations based on parameters such as:
 
 * Degree of polymerization (DP) <br>
-*  Glass transition temperature (Tg) <br> 
+*  Glass transition temperature (_T_<sub>g</sub>) <br> 
 * Copolymer compositions <br>
 
 ## Requirements
@@ -58,8 +63,8 @@ Polymer names follow this format:
 The tool includes three case studies demonstrating different polymer combination scenarios:
 
 * Case Study 1: Exploring partner A blocks for poly(εCL)
-* Case Study 2: Examining low-Tg B blocks
-* Case Study 3: Investigating high-Tg copolymer A blocks with varied compositions
+* Case Study 2: Examining low-(_T_<sub>g</sub>) B blocks
+* Case Study 3: Investigating high-(_T_<sub>g</sub>) copolymer A blocks with varied compositions
 
 ## Troubleshooting
 If you encounter issues running the application:
@@ -69,9 +74,6 @@ If you encounter issues running the application:
 * Ensure all required data files have unchanged column headings
 * Check that you have sufficient permissions on your system
 
-This software accompanies a manuscript in preparation. While licensed under 
-the BSD 3-Clause License, we request that you contact the authors before 
-using this software in research projects until our publication is available.
-
-*Contact Information* <br>
-[Georgina L. Gregory, University of Oxford]
+## **Contact**
+Georgina L. Gregory - georgina.gregory@chem.ox.ac.uk, 
+Royal Society Dorothy Hodgkin Fellow, Chemistry Research Lab, Department of Chemistry, University of Oxford
