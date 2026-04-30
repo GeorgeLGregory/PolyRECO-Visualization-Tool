@@ -3,7 +3,7 @@
 `MATLAB-Visualization Tool` created by _Georgina L.Gregory_ for the manuscript: 
 
 **"Graph-Based Machine Learning Identifies Oxygenated Block Polymer Replacements for Conventional Plastics and Elastics,"**
-Soheila Molaei, Kam C. Poon, Chang Gao, Katharina H. S. Eisenhardt, Matilde Concilio, Gregory S. Sulley, David Kohan Marzagão*, Georgina L. Gregory*, David A. Clifton*, Clive R. Siviour*, Charlotte K. Williams*, _J. Am. Chem. Soc._ , **2026**, 148, 10, 10934–10944. DOI:[10.1021/jacs.5c21416](https://doi.org/10.1021/jacs.5c21416) Open access (CC-BY).
+Soheila Molaei, Kam C. Poon, Chang Gao, Katharina H. S. Eisenhardt, Matilde Concilio, Gregory S. Sulley, David Kohan Marzagão, Georgina L. Gregory, David A. Clifton, Clive R. Siviour, Charlotte K. Williams, _J. Am. Chem. Soc._ , **2026**, 148, 10, 10934–10944. DOI:[10.1021/jacs.5c21416](https://doi.org/10.1021/jacs.5c21416) Open access (CC-BY).
 
 Used to visualise output from `PolyReco` code created by _Soheila Molaei_: [github.com./SoheilaMolaei/PolyReco](https://github.com/SoheilaMolaei/PolyReco)
 
